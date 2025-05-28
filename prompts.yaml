@@ -1,0 +1,34 @@
+- category: email
+  completion: ''
+  id: 1
+  prompt_text: Write a professional email to a client explaining a project delay and
+    proposing a new timeline.
+  title: Professional Email Template
+  tone: formal
+- category: blog
+  completion: ''
+  id: 2
+  prompt_text: Create an engaging introduction for a blog post about sustainable living
+    practices.
+  title: Blog Post Introduction
+  tone: informal
+- category: story
+  completion: ''
+  id: 3
+  prompt_text: Write the opening paragraph of a mystery story set in a small coastal
+    town.
+  title: Creative Story Opening
+  tone: creative
+- category: instruction
+  completion: ''
+  id: 4
+  prompt_text: Explain how to implement error handling in Python for beginners.
+  title: Technical Documentation
+  tone: factual
+- category: email
+  completion: ''
+  id: 5
+  prompt_text: Respond to a customer complaint about a delayed shipment with empathy
+    and a solution.
+  title: Customer Support Response
+  tone: empathetic
